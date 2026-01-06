@@ -8,17 +8,24 @@
       "name": "ReFuel",
       "bundleIdentifier": "com.nopenick.refuel",
       "developerName": "Niccolò Franceschi",
-      "subtitle": "Trova i distributori vicini a te.",
-      "localizedDescription": "ReFuel ti aiuta a risparmiare trovando i distributori di benzina più economici nella tua zona.",
-      "iconURL": "https://NiccoloFranceschi.github.io/altstore/images/icon.png",
+      "subtitle": "Scopri quanto costa il carburante vicino a te.",
+      "localizedDescription": "ReFuel ti aiuta a risparmiare trovando i prezzi del carburante nei distributori vicino a te.",
+      "iconURL": "https://NiccoloFranceschi.github.io/altstore/assets/ReFuel/icon/icon.png",
       "tintColor": "#5CA399",
+      "screenshots": [
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/1.png",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/2.png",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/3.png",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/4.png",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/5.png",
+      ],
       "versions": [
         {
           "version": "1.0",
-          "date": "2023-10-27T12:00:00-00:00",
-          "size": 15000000,
+          "date": "2026-01-06T12:00:00-00:00",
+          "size": 8000000,
           "downloadURL": "https://github.com/NiccoloFranceschi/ReFuel/releases/download/1.0.0/ReFuel.ipa",
-          "localizedDescription": "Rilascio iniziale con ricerca distributori.",
+          "localizedDescription": "Rilascio iniziale.",
           "minOSVersion": "15.0"
         }
       ],
