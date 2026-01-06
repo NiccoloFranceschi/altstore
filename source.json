@@ -10,14 +10,14 @@
       "developerName": "Niccolò Franceschi",
       "subtitle": "Scopri quanto costa il carburante vicino a te.",
       "localizedDescription": "ReFuel ti aiuta a risparmiare trovando i prezzi del carburante nei distributori vicino a te.",
-      "iconURL": "https://NiccoloFranceschi.github.io/altstore/assets/ReFuel/icon/icon.png",
+      "iconURL": "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/icon/icon.png?raw=true",
       "tintColor": "#5CA399",
       "screenshots": [
-        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/1.png",
-        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/2.png",
-        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/3.png",
-        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/4.png",
-        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/5.png",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/1.png?raw=true",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/2.png?raw=true",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/3.png?raw=true",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/4.png?raw=true",
+        "https://github.com/NiccoloFranceschi/altstore/blob/main/assets/ReFuel/screenshots/5.png?raw=true",
       ],
       "versions": [
         {
