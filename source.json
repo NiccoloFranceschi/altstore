@@ -22,19 +22,19 @@
       ],
       "versions": [
         {
-          "version": "1.0.0",
-          "date": "2026-01-06T12:00:00-00:00",
-          "size": 8000000,
-          "downloadURL": "https://github.com/NiccoloFranceschi/ReFuel/releases/download/1.0.0/ReFuel.ipa",
-          "localizedDescription": "Rilascio iniziale.",
-          "minOSVersion": "15.0"
-        },
-        {
           "version": "1.0.1",
           "date": "2026-01-11T00:00:00-00:00",
           "size": 8000000,
           "downloadURL": "https://github.com/NiccoloFranceschi/ReFuel/releases/download/1.0.1/ReFuel.ipa",
           "localizedDescription": "**Novità di questa versione:**\n\n• 1. **Navigazione:** Aggiunto un dialog per selezionare la modalità di navigazione.\n• 2. **Design:** Restyle completo della schermata delle impostazioni.\n• 3. **Loghi:** Aggiunti i loghi dei distributori mancanti.\n• 4. **Mappa:** Aggiunto il pulsante per ricentrare la visuale.",
+          "minOSVersion": "15.0"
+        },
+        {
+          "version": "1.0.0",
+          "date": "2026-01-06T12:00:00-00:00",
+          "size": 8000000,
+          "downloadURL": "https://github.com/NiccoloFranceschi/ReFuel/releases/download/1.0.0/ReFuel.ipa",
+          "localizedDescription": "Rilascio iniziale.",
           "minOSVersion": "15.0"
         }
       ],
