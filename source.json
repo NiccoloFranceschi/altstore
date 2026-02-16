@@ -48,7 +48,8 @@
       ],
       "appPermissions": {
         "privacy": {
-          "NSLocationWhenInUseUsageDescription": "ReFuel ha bisogno della tua posizione per la ricerca dei distributori vicino a te."
+          "NSLocationWhenInUseUsageDescription": "ReFuel ha bisogno della tua posizione per la ricerca dei distributori vicino a te.",
+          "NSLocationAlwaysAndWhenInUseUsageDescription": "ReFuel ha bisogno della tua posizione per la ricerca dei distributori vicino a te."
         }
       }
     }
